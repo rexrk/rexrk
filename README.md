@@ -4,17 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-###
-
 <div align="right">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexrk&label=Profile%20views&color=0e75b6&style=flat" alt="rexrk" /> </p>
 </div>
 
-###
-
 <img align="right" height="120" width = "220" src="http://i.imgur.com/xO2o7e8.png" />
-
-###
 
 Java | Spring Boot | Microservices | REST APIs | Security
 
