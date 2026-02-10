@@ -32,6 +32,8 @@ Experienced Developer who enjoys building reliable microservices using various t
 <a href="https://www.github.com/rexrk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rexrk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+---
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rexrk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rexrk&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
