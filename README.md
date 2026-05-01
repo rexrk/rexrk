@@ -20,26 +20,28 @@ Experienced Developer who enjoys building reliable microservices using various t
 * 👥  I'm looking to collaborate on Spring Boot projects
 * 💬  Ask me about I talk to servers more than humans.
 
-<p align="left">
-<a href="https://spring.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36" height="36"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36"/></a>
-<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"/></a>
-<a href="https://lua.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36" height="36"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36"/></a>
-<a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36"/></a>
-<a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/></a>
-<a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36"/></a>
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36"/></a>
-<a href="https://fedoraproject.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" width="36" height="36"/></a>
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/></a>
-<a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36"/></a>
-</p>
+<div align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36"/>
+
+</div>
 
 ### Socials
 
