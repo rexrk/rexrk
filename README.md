@@ -4,6 +4,10 @@ Backend Developer focused on Java, Spring Boot, and distributed systems.
 
 I enjoy building backend services, developer tools, and exploring how systems work under the hood—from HTTP requests and databases to cloud infrastructure and distributed architectures.
 
+### Portfolio
+
+🌐 [rexrk.is-a.dev](https://rexrk.is-a.dev)
+
 <table>
 <tr>
 <td>
@@ -15,7 +19,7 @@ I enjoy building backend services, developer tools, and exploring how systems wo
 | Java | Docker |
 | Spring Boot | Kubernetes |
 | Microservices | AWS |
-| REST APIs | Linux |
+| REST APIs | Kong |
 | MySQL | |
 | MongoDB | |
 
@@ -29,7 +33,3 @@ I enjoy building backend services, developer tools, and exploring how systems wo
 </td>
 </tr>
 </table>
-
-### Portfolio
-
-🌐 [rexrk.is-a.dev](https://rexrk.is-a.dev)
