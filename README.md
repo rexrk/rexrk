@@ -1,58 +1,19 @@
-<div align="right">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexrk&label=Profile%20views&color=0e75b6&style=flat" alt="rexrk" /> </p>
-</div>
-<img align="right" height="120" width = "220" src="http://i.imgur.com/xO2o7e8.png" />
+# Bonjour, I'm Raman 👋
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Raman Kumar
-====================================================================================================================================
+Backend Developer focused on Java, Spring Boot, and distributed systems.
 
-### Backend Developer
+I enjoy building backend services, developer tools, and exploring how systems work under the hood—from HTTP requests and databases to cloud infrastructure and distributed architectures.
 
-Java | Spring Boot | Microservices | REST APIs | Security
+## Tech Stack
 
-Experienced Developer who enjoys building reliable microservices using various technologies. Curious about system design, cloud, and how things work under the hood.
+| Backend | Infrastructure |
+|----------|----------|
+| Java | Docker |
+| Spring Boot | Kubernetes |
+| Microservices | AWS |
+| REST APIs | Linux |
+| MySQL | |
+| MongoDB | |
+### Portfolio
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://rexrk.github.io)
-* ✉️  You can contact me at [kraman938@gmail.com](mailto:kraman938@gmail.com)
-* 🚀  I'm currently working on [Ai Dev Tools](http://github.com/rexrk/ai-dev-tools)
-* 🧠  I'm currently learning Agentic frameworks
-* 👥  I'm looking to collaborate on Spring Boot projects
-* 💬  Ask me about I talk to servers more than humans.
-
-<div align="left">
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36"/>
-
-</div>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/rexrk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/ra_man_kumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/raman-linking/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/rexrk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rexrk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
----
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rexrk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rexrk&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
+https://rexrk.is-a.dev
